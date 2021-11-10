@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicewithDRY", "practicewithDRY\practicewithDRY.csproj", "{F28820B5-53D5-4294-BFC2-B5B8AB341B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYpractice", "DRYpractice\DRYpractice.csproj", "{75131B04-56BD-4194-ABCB-6511A03ACDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28820B5-53D5-4294-BFC2-B5B8AB341B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28820B5-53D5-4294-BFC2-B5B8AB341B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28820B5-53D5-4294-BFC2-B5B8AB341B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28820B5-53D5-4294-BFC2-B5B8AB341B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75131B04-56BD-4194-ABCB-6511A03ACDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75131B04-56BD-4194-ABCB-6511A03ACDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75131B04-56BD-4194-ABCB-6511A03ACDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75131B04-56BD-4194-ABCB-6511A03ACDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34AA5215-E440-467D-98F4-A96BF997F656}
+	EndGlobalSection
+EndGlobal
